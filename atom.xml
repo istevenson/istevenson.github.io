@@ -4,7 +4,7 @@
   <title><![CDATA[Imon Stevenson]]></title>
   <link href="http://istevenson.github.io/atom.xml" rel="self"/>
   <link href="http://istevenson.github.io/"/>
-  <updated>2013-09-17T13:52:02-04:00</updated>
+  <updated>2013-09-20T10:20:41-04:00</updated>
   <id>http://istevenson.github.io/</id>
   <author>
     <name><![CDATA[Imon Stevenson]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The First Week]]></title>
+    <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
+    <updated>2013-09-20T09:42:00-04:00</updated>
+    <id>http://istevenson.github.io/blog/:2013/:September/:17/the-first-week</id>
+    <content type="html"><![CDATA[<p>This first week at Fullstack has been filled with all kinds of fun stuff; from using GitHub to writing a program which creates Haikus (see below for my favorite Haiku so far). And though I&rsquo;ve learned a lot in the past five days, I&rsquo;d have to say that the most interesting thing I learned about was ERB for the OctoMailer project. I even had a dream about it last night! Well, at least I think I did. I don&rsquo;t remember the specifics, but I remember waking up in the middle of the night thinking, &ldquo;Whoa, Nimit said that this would happen&rdquo;.</p>
+
+<p>I&rsquo;ve begun to realize that the most important thing for me is to make sure I ask questions. Too often I&rsquo;m weary of asking something because I don&rsquo;t want to waste the group&rsquo;s time. Also, I need to start taking more breaks, especially toward the end of the day. I find that when I get up and walk around, even for 30 seconds, my focus improves. And as for pair programming, I really liked it!</p>
+
+<p>This week has been great, and I&rsquo;m looking forward to the next eleven.</p>
+
+<p><strong><del>Best</del>Most Confusing Haiku Ever</strong>
+<em>Undeniable
+Territoriality
+Accumulation</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[title of your post]]></title>
