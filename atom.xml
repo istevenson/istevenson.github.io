@@ -4,7 +4,7 @@
   <title><![CDATA[Imon Stevenson]]></title>
   <link href="http://istevenson.github.io/atom.xml" rel="self"/>
   <link href="http://istevenson.github.io/"/>
-  <updated>2013-09-20T10:32:29-04:00</updated>
+  <updated>2013-09-27T10:20:23-04:00</updated>
   <id>http://istevenson.github.io/</id>
   <author>
     <name><![CDATA[Imon Stevenson]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week Two]]></title>
+    <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
+    <updated>2013-09-27T09:15:00-04:00</updated>
+    <id>http://istevenson.github.io/blog/:2013/:September/:17/week-two</id>
+    <content type="html"><![CDATA[<p>The week&rsquo;s topics included Test-Driven Development, Databases, and SQL. Within our pairs, we created a Blackjack Engine which mimicked thousands of blackjack games based on different strategies. Next, we got into databases; specifically, the International Movie Database (IMDB). I learned why we should use them, some examples of databases that I was already familiar with (e.g. an Excel spreadsheet or my iPhone contacts), and how to extract actual data from them using SQL. The next project was to build our own SimpleRecord within pairs. Using Ruby and SQL, we interacted with IMDB to query a SQLite database containing IMDB data.</p>
+
+<p>We ended the week by doing a Teach to Learn exercise in groups of seven. The topics: classes versus instances, class methods versus instance methods, inheritance &amp; the method lookup chain, classes versus modules, instance attributes, and arrays versus hashes. Within the groups, each person presented what he or she knew about the given topics. Though this was a simple exercise, it helped me so much. It was awesome to hear different ways of thinking about things; I was able to understand these concepts better by hearing things repeated again and again.</p>
+
+<p>My time at Fullstack thus far has been <em>unusual</em>. For the first time in my 13-year career as a student am I being challenged beyond what I&rsquo;d think to be a regular challenge. But that&rsquo;s why I&rsquo;m here, to learn something new, something previously foreign to me. Though I find myself a little frustrated at times, it&rsquo;s a good kind of frustrated&mdash;an exciting kind. Week three, here I come.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The First Week]]></title>
