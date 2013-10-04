@@ -4,7 +4,7 @@
   <title><![CDATA[Imon Stevenson]]></title>
   <link href="http://istevenson.github.io/atom.xml" rel="self"/>
   <link href="http://istevenson.github.io/"/>
-  <updated>2013-09-27T11:45:48-04:00</updated>
+  <updated>2013-10-04T10:44:16-04:00</updated>
   <id>http://istevenson.github.io/</id>
   <author>
     <name><![CDATA[Imon Stevenson]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week Three]]></title>
+    <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
+    <updated>2013-10-04T09:22:00-04:00</updated>
+    <id>http://istevenson.github.io/blog/:2013/:September/:17/week-3</id>
+    <content type="html"><![CDATA[<p>I cannot believe I&rsquo;m at the end of my third week at Fullstack! The time here has flown by. Let&rsquo;s see, this week we covered ActiveRecord and used it to query IMDB, I gained a deeper understanding of Internet Technology, I made my first web app, called <a href="http://imon-town.herokuapp.com/room/1">&ldquo;Imon Town&rdquo;</a>, and started using Regex.</p>
+
+<p>My favorite topic was the Internet! I&rsquo;ve grown up with it, I&rsquo;ve used it nearly every single day of my post-toddler life, but until two days ago I didn&rsquo;t really know how it worked. For those of you lacking the knowledge that I once did too, poor thing, listen up (please?). The Worldwide Web we all know of is essentially a big network of servers. What is a web server and how does it work, you ask? Well, when you search something on Google, you&rsquo;re asking for a request to be sent. This request travels through the Internet until it reaches a Web Server, which is a server that <em>serves</em> web requests. The server then comes up with a response and sends it back to your computer.</p>
+
+<p>After our group discussion about the Internet, I did a little digging on my own and learned about how WiFi works. And yes, yes I&rsquo;ll tell you all about it. So, WiFi stands for Wireless Fidelity. That makes sense, right? Because it&rsquo;s like a continuous and faithful connection with the Internet, wirelessly! Ethernet connections are so ten years ago. Anywho, Wifi works when your wireless router receives data from the Internet. The router then translates that information into a radio wave in order for your Wifi-enabled device to receive it. The higher the frequency of the radio signal, the more data that can be carried.</p>
+
+<p>So now you know what I know about the Internet. Twins!</p>
+
+<p>P.S. Don&rsquo;t forget to check in next week; I hear week four is going to be pretty fun.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Week Two]]></title>
