@@ -4,7 +4,7 @@
   <title><![CDATA[Imon Stevenson]]></title>
   <link href="http://istevenson.github.io/atom.xml" rel="self"/>
   <link href="http://istevenson.github.io/"/>
-  <updated>2013-10-04T10:44:16-04:00</updated>
+  <updated>2013-10-11T10:23:07-04:00</updated>
   <id>http://istevenson.github.io/</id>
   <author>
     <name><![CDATA[Imon Stevenson]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week Four: Rails!]]></title>
+    <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
+    <updated>2013-10-11T09:36:00-04:00</updated>
+    <id>http://istevenson.github.io/blog/:2013/:September/:17/week-four-rails</id>
+    <content type="html"><![CDATA[<p>I say this every week, but&hellip; this week flew by! As the title gave away, on Monday we started Ruby on Rails. We didn&rsquo;t just jump into it though; the exercises and projects from the previous three weeks were building blocks for the powerful RoR. I&rsquo;m now realizing the method to the madness. Having experienced creating projects with less structure, I know I like the more formatted style of Rails. I understand why Rails works the way it does.</p>
+
+<p>Last night as I was listening to the <a href="https://soundcloud.com/eatdatcake/23-feat-miley-cyrus-wiz">&ldquo;23 (CAKED UP Remix)&rdquo;</a> on SoundCloud, I recognized a very familiar URL pattern. I then found out that SoundCloud is based on this simple setup:
+:Internet &ndash;> Web &ndash;> App (Rails) &ndash;> Data (MySQL):
+Hey, I understand that! I&rsquo;m not completely used to Rails yet, but it&rsquo;s coming together.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Week Three]]></title>
