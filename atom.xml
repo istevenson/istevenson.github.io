@@ -4,7 +4,7 @@
   <title><![CDATA[Imon Stevenson]]></title>
   <link href="http://istevenson.github.io/atom.xml" rel="self"/>
   <link href="http://istevenson.github.io/"/>
-  <updated>2013-11-01T16:38:05-04:00</updated>
+  <updated>2013-11-15T10:34:58-05:00</updated>
   <id>http://istevenson.github.io/</id>
   <author>
     <name><![CDATA[Imon Stevenson]]></name>
@@ -14,11 +14,25 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Week Nine]]></title>
+    <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
+    <updated>2013-11-15T10:09:00-05:00</updated>
+    <id>http://istevenson.github.io/blog/:2013/:September/:17/week-eight</id>
+    <content type="html"><![CDATA[<p>On Monday we started our capstone projects. This week has been very productive thanks to the 48 hour sprints we&rsquo;ve been doing. My project is an app designed to help you meet up with friends. Or really just anyone. Right now there are some basic features and functionality: a map with your pinpointed location, zoom animation, user login/logout, an &ldquo;About&rdquo; page, and a contact section. It&rsquo;s also accessible from desktop or mobile. I&rsquo;m using Leaflet.js, the JavaScript Geolocation API, and CloudMade for the map images. Here&rsquo;s a sneak peak.
+<img src="meetup1.png" alt="MeetUp" />
+<img src="meetup2.png" alt="MeetUp" />
+<img src="meetup3.png" alt="MeetUp" /></p>
+
+<p>Like koalas? Check <a href="http://www.koalastothemax.com/">this</a> out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Week Seven]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
     <updated>2013-11-01T09:32:00-04:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-seven</id>
-    <content type="html"><![CDATA[<p>Currently on a sugar high from Halloween, so this post may be lengthy. I can&rsquo;t believe it; I truly cannot believe that my seventh week at the &lsquo;Stack is coming to a close. When I was asked <a href="https://github.com/kyle-dorman">Kyle</a> what week it was and he replied, &ldquo;The seventh!&rdquo;, my reaction was <a href="http://25.media.tumblr.com/tumblr_lwd75beCsn1r3ovdbo1_400.gif">like</a>. This week I was busy, busy, busy. We continued with JavaScript on a project designed to create daily intineraries called &ldquo;Trip Planner&rdquo;, and started jQuery, JSON, AJAX, and got an intro to Backbone.js for next week&rsquo;s project.</p>
+    <content type="html"><![CDATA[<p>Currently on a sugar high from Halloween, so this post may be lengthy&hellip;or short. I can&rsquo;t believe it; I truly cannot believe that my seventh week at the &lsquo;Stack is coming to a close. When I was asked <a href="https://github.com/kyle-dorman">Kyle</a> what week it was and he replied, &ldquo;The seventh!&rdquo;, my reaction was <a href="http://25.media.tumblr.com/tumblr_lwd75beCsn1r3ovdbo1_400.gif">like</a>. This week I was busy, busy, busy. We continued with JavaScript on a project designed to create daily intineraries called &ldquo;Trip Planner&rdquo;, and started jQuery, JSON, AJAX, and got an intro to Backbone.js for next week&rsquo;s project.</p>
 ]]></content>
   </entry>
   
