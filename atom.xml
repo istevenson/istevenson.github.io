@@ -4,7 +4,7 @@
   <title><![CDATA[Imon Stevenson]]></title>
   <link href="http://istevenson.github.io/atom.xml" rel="self"/>
   <link href="http://istevenson.github.io/"/>
-  <updated>2013-11-15T10:38:38-05:00</updated>
+  <updated>2013-11-15T10:41:07-05:00</updated>
   <id>http://istevenson.github.io/</id>
   <author>
     <name><![CDATA[Imon Stevenson]]></name>
@@ -19,9 +19,9 @@
     <updated>2013-11-15T10:09:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-eight</id>
     <content type="html"><![CDATA[<p>On Monday we started our capstone projects. This week has been very productive thanks to the 48 hour sprints we&rsquo;ve been doing. My project is an app designed to help you meet up with friends. Or really just anyone. Right now there are some basic features and functionality: a map with your pinpointed location, zoom animation, user login/logout, an &ldquo;About&rdquo; page, and a contact section. It&rsquo;s also accessible from desktop or mobile. I&rsquo;m using Leaflet.js, the JavaScript Geolocation API, and CloudMade for the map images. Here&rsquo;s a sneak peak. <br>
-<img src="meetup1.png" alt="MeetUp">
-<img src="meetup2.png" alt="MeetUp">
-<img src="meetup3.png" alt="MeetUp"></p>
+<img src="http://istevenson.github.io/images/meetup1.png" alt="MeetUp">
+<img src="http://istevenson.github.io/images/meetup2.png" alt="MeetUp">
+<img src="http://istevenson.github.io/images/meetup3.png" alt="MeetUp"></p>
 
 <p>Like koalas? Check <a href="http://www.koalastothemax.com/">this</a> out.</p>
 ]]></content>
