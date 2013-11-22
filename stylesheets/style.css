@@ -1067,4 +1067,14 @@ page-break-after:avoid;
 }
 }
 
+h1#name {
+  margin-left: 4%;
+}
+
+
+div#avatar{
+  padding-left: 41%;
+
+}
+
 
