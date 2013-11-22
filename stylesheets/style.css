@@ -1068,6 +1068,10 @@ page-break-after:avoid;
 }
 
 div#avatar{
-  margin-left: 42%;
+  margin-left: 44%;
 
+}
+
+h1#name {
+  margin-left: 4%;
 }
