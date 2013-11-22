@@ -4,7 +4,7 @@
   <title><![CDATA[Imon Stevenson]]></title>
   <link href="http://istevenson.github.io/atom.xml" rel="self"/>
   <link href="http://istevenson.github.io/"/>
-  <updated>2013-11-22T15:00:46-05:00</updated>
+  <updated>2013-11-22T15:11:28-05:00</updated>
   <id>http://istevenson.github.io/</id>
   <author>
     <name><![CDATA[Imon Stevenson]]></name>
@@ -18,10 +18,14 @@
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
     <updated>2013-11-22T09:38:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-ten</id>
-    <content type="html"><![CDATA[<p>It&rsquo;s officially official that the first version of MeetUp has been released. For now, it&rsquo;s being hosted on Heroku <a href="http://meetupwithme.herokuapp.com/">here</a>, but I&rsquo;ll give my dedicated readers a preview.
-<img class="center" src="http://istevenson.github.io/images/pic01.jpg" title="image" alt="01">
-<img class="center" src="http://istevenson.github.io/images/pic02.jpg" title="image" alt="02">
-<img class="center" src="http://istevenson.github.io/images/pic03.jpg" title="image" alt="03"></p>
+    <content type="html"><![CDATA[<p>It&rsquo;s officially official that the first version of MeetUp has been released. For now, it&rsquo;s being hosted on Heroku <a href="http://meetupwithme.herokuapp.com/">here</a>, but I&rsquo;ll give my dedicated readers a preview.</p>
+
+<br>
+
+
+<p><img class="center" src="http://istevenson.github.io/images/pic01.jpg">
+<img class="center" src="http://istevenson.github.io/images/pic02.jpg">
+<img class="center" src="http://istevenson.github.io/images/pic03.jpg"></p>
 ]]></content>
   </entry>
   
