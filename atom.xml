@@ -4,7 +4,7 @@
   <title><![CDATA[Imon Stevenson]]></title>
   <link href="http://istevenson.github.io/atom.xml" rel="self"/>
   <link href="http://istevenson.github.io/"/>
-  <updated>2013-12-10T20:44:36-05:00</updated>
+  <updated>2015-01-02T10:21:50-06:00</updated>
   <id>http://istevenson.github.io/</id>
   <author>
     <name><![CDATA[Imon Stevenson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[giving RG an update]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-11-26T15:16:00-05:00</updated>
+    <updated>2013-11-26T15:16:00-06:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/giving-rg-a-facelift</id>
     <content type="html"><![CDATA[<p>Like many Millennials, I&rsquo;m on Rap Genius all the time. Sometimes because I want be able to sing along with Drake or Yeezus, but mostly because I&rsquo;m trying to understand the dis being made by someone (ahem, <a href="http://rapgenius.com/Big-sean-control-lyrics">Kendrick</a>). It&rsquo;s just so hard to keep up with the rap game, you know? No, I&rsquo;m not a Scholar and no, I don&rsquo;t have a high Rap IQ, but I love Rap G (are we on a nickname basis yet?) just as much as <a href="http://rapgenius.com/DMoneyBx">DMoneyBX</a>. So when I decided to give the website an update, a much-needed facelift, one might say, it was out of admiration.</p>
 
@@ -30,7 +30,7 @@
   <entry>
     <title type="html"><![CDATA[Week Ten]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-11-22T09:38:00-05:00</updated>
+    <updated>2013-11-22T09:38:00-06:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-ten</id>
     <content type="html"><![CDATA[<p>It&rsquo;s officially official that the first version of MeetUp has been released. MeetUp is designed to help people find each other. If you&rsquo;ve ever searched for someone in a crowded place to no avail, or just want to allow people to keep tabs on you, then MeetUp is your solution! It&rsquo;s designed with simplicity, performance, and usability in mind. Taking advantage of HTML5, CSS3, JavaScript, and jQuery, it works on desktops and major mobile platforms. For now, it&rsquo;s hosted on Heroku <a href="http://meetupwithme.herokuapp.com/">here</a>, but I&rsquo;ll give my dedicated readers a preview.</p>
 
@@ -55,7 +55,7 @@
   <entry>
     <title type="html"><![CDATA[Week Nine]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-11-15T10:09:00-05:00</updated>
+    <updated>2013-11-15T10:09:00-06:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-eight</id>
     <content type="html"><![CDATA[<p>On Monday we started our capstone projects. This week has been very productive thanks to the 48 hour sprints we&rsquo;ve been doing. My project is an app designed to help you meet up with friends. Or really just anyone. Right now there are some basic features and functionality: a map with your pinpointed location, zoom animation, user login/logout, an &ldquo;About&rdquo; page, and a contact section. It&rsquo;s also accessible from desktop or mobile. I&rsquo;m using Leaflet.js, the JavaScript Geolocation API, and CloudMade for the map images.</p>
 
@@ -66,7 +66,7 @@
   <entry>
     <title type="html"><![CDATA[Week Seven]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-11-01T09:32:00-04:00</updated>
+    <updated>2013-11-01T09:32:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-seven</id>
     <content type="html"><![CDATA[<p>Currently on a sugar high from Halloween, so this post may be lengthy&hellip;or short. I can&rsquo;t believe it; I truly cannot believe that my seventh week at the &lsquo;Stack is coming to a close. When I was asked <a href="https://github.com/kyle-dorman">Kyle</a> what week it was and he replied, &ldquo;The seventh!&rdquo;, my reaction was <a href="http://25.media.tumblr.com/tumblr_lwd75beCsn1r3ovdbo1_400.gif">like</a>. This week I was busy, busy, busy. We continued with JavaScript on a project designed to create daily intineraries called &ldquo;Trip Planner&rdquo;, and started jQuery, JSON, AJAX, and got an intro to Backbone.js for next week&rsquo;s project.</p>
 ]]></content>
@@ -75,7 +75,7 @@
   <entry>
     <title type="html"><![CDATA[Week Six, Guys!]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-10-25T09:36:00-04:00</updated>
+    <updated>2013-10-25T09:36:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-six</id>
     <content type="html"><![CDATA[<p>Yes. I feel it in the air&mdash;the (more) fun part of web programming <em>is</em> beginning. This week we did some HTML and CSS and built a Bootstrapesque theme, but without using Bootstrap, duh. It was called <a href="https://github.com/istevenson/shoestring">Shoestring</a>. Get it? Then we started JavaScript! It&rsquo;s cool, really cool. Yesterday we began a project called the Game of Life, Conway&rsquo;s Game of Life.<a href="http://www.youtube.com/watch?v=C2vgICfQawE"> Here&rsquo;s</a> a tricked out version of what we made.</p>
 
@@ -90,7 +90,7 @@
   <entry>
     <title type="html"><![CDATA[Week Five]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-10-18T10:06:00-04:00</updated>
+    <updated>2013-10-18T10:06:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-five</id>
     <content type="html"><![CDATA[<p>Andddd another week comes to a close at Fullstack. This week we worked in groups of four on a project where we created a group funding app similar to something like <a href="http://www.kickstarter.com/">Kickstarter</a> or <a href="https://www.crowdtilt.com/">Crowdtilt</a>. We called ours <a href="https://github.com/SBlines/Starter-App">LateStarter</a>. The task was not only to create this app, but also to use the Scrum Development process. We had sprints, Scrum masters, and used Trello to keep track of the product backlog, sprint backlog, and completed sprint tasks. It was pretty invigorating!</p>
 
@@ -101,7 +101,7 @@
   <entry>
     <title type="html"><![CDATA[Week Four: Rails!]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-10-11T09:36:00-04:00</updated>
+    <updated>2013-10-11T09:36:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-four-rails</id>
     <content type="html"><![CDATA[<p>I say this every week, but&hellip; this week flew by. As the title gave away, on Monday we started Ruby on Rails. We didn&rsquo;t just jump into it though; the exercises and projects from the previous three weeks were building blocks for the powerful RoR. Now I understand the method to the madness.</p>
 
@@ -117,7 +117,7 @@
   <entry>
     <title type="html"><![CDATA[Week Three]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-10-04T09:22:00-04:00</updated>
+    <updated>2013-10-04T09:22:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-3</id>
     <content type="html"><![CDATA[<p>I cannot believe I&rsquo;m at the end of my third week at Fullstack! The time here has flown by. Let&rsquo;s see, this week we covered ActiveRecord and used it to query IMDB, I gained a deeper understanding of Internet Technology, I made my first web app, called <a href="http://imon-town.herokuapp.com/room/1">&ldquo;Imon Town&rdquo;</a>, and started using Regex.</p>
 
@@ -134,7 +134,7 @@
   <entry>
     <title type="html"><![CDATA[Week Two]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-09-27T09:15:00-04:00</updated>
+    <updated>2013-09-27T09:15:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/week-two</id>
     <content type="html"><![CDATA[<p>The week&rsquo;s topics included Test-Driven Development, Databases, and SQL. Within our pairs, we created a Blackjack Engine which mimicked thousands of blackjack games based on different strategies. Next, we got into databases; specifically, the International Movie Database (IMDB). I learned why we should use them, some examples of databases that I was already familiar with (e.g. an Excel spreadsheet or my iPhone contacts), and how to extract actual data from them using SQL. The next project was to build our own SimpleRecord within pairs. Using Ruby and SQL, we interacted with IMDB to query a SQLite database containing IMDB data.</p>
 
@@ -147,7 +147,7 @@
   <entry>
     <title type="html"><![CDATA[The First Week]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-09-20T09:42:00-04:00</updated>
+    <updated>2013-09-20T09:42:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/the-first-week</id>
     <content type="html"><![CDATA[<p>This first week at Fullstack has been filled with all kinds of fun stuff; from using GitHub to writing a program which creates Haikus (see below for my favorite Haiku so far). And though I&rsquo;ve learned a lot in the past five days, I&rsquo;d have to say that the most interesting thing I learned about was ERB for the OctoMailer project. I even had a dream about it last night! Well, at least I think I did. I don&rsquo;t remember the specifics, but I remember waking up in the middle of the night thinking, &ldquo;Whoa, Nimit said that this would happen&rdquo;.</p>
 
@@ -165,7 +165,7 @@ Accumulation</em></p>
   <entry>
     <title type="html"><![CDATA[Hello, World!]]></title>
     <link href="http://istevenson.github.io/blog/:2013/:September/:17/:ImonStevenson/"/>
-    <updated>2013-09-17T11:58:00-04:00</updated>
+    <updated>2013-09-17T11:58:00-05:00</updated>
     <id>http://istevenson.github.io/blog/:2013/:September/:17/title-of-your-post</id>
     <content type="html"><![CDATA[
 ]]></content>
